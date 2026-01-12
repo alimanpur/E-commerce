@@ -2,17 +2,17 @@ import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import ProductCard from './ProductCard';
 import { useProducts } from './useProducts';
-import customebuilds from'/Projects/E-commerce/e-commerce/src/assets/c346d302-b3ef-4449-88a9-184e22a5ec5f.png';
-import gamingmonitors from'/Projects/E-commerce/e-commerce/src/assets/a83ccef9-4e13-4d34-9d93-d88df3d35e44.png';
-import desktops from'/Projects/E-commerce/e-commerce/src/assets/70243a5a-5ee4-42d1-8294-fbe720d414a4.png';
-import msilaptops from'/Projects/E-commerce/e-commerce/src/assets/615a3e9d-02fb-49bb-85b7-9b1307ea827e.png';
-import brand1 from'/Projects/E-commerce/e-commerce/src/assets/Frame 22.png';
-import brand2 from'/Projects/E-commerce/e-commerce/src/assets/Frame 23.png';
-import brand3 from'/Projects/E-commerce/e-commerce/src/assets/Frame 24.png';
-import brand4 from'/Projects/E-commerce/e-commerce/src/assets/Frame 25.png';
-import brand5 from'/Projects/E-commerce/e-commerce/src/assets/Frame 26.png';
-import brand6 from'/Projects/E-commerce/e-commerce/src/assets/Frame 27.png';
-import brand7 from'/Projects/E-commerce/e-commerce/src/assets/Frame 34.png';
+import customebuilds from'../../assets/c346d302-b3ef-4449-88a9-184e22a5ec5f.png';
+import gamingmonitors from'../../assets/a83ccef9-4e13-4d34-9d93-d88df3d35e44.png';
+import desktops from'../../assets/70243a5a-5ee4-42d1-8294-fbe720d414a4.png';
+import msilaptops from'../../assets/615a3e9d-02fb-49bb-85b7-9b1307ea827e.png';
+import brand1 from'../../assets/Frame 22.png';
+import brand2 from'../../assets/Frame 23.png';
+import brand3 from'../../assets/Frame 24.png';
+import brand4 from'../../assets/Frame 25.png';
+import brand5 from'../../assets/Frame 26.png';
+import brand6 from'../../assets/Frame 27.png';
+import brand7 from'../../assets/Frame 34.png';
 
 const ProductList = () => {
   const { products, getProductsByCategory } = useProducts();

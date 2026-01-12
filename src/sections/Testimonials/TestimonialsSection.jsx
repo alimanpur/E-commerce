@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import {FaHeadset} from "react-icons/fa6";
-import tagimage from '/Projects/E-commerce/e-commerce/src/assets/Tag-Dollar-Price--Streamline-Freehand.png'
 
 const TestimonialsSection = () => {
   const [currentTestimonial, setCurrentTestimonial] = useState(0);

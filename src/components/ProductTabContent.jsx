@@ -1,11 +1,11 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import corei7 from "/Projects//E-commerce/e-commerce/src/assets/corei7.jpeg";
-import girl from "/Projects//E-commerce/e-commerce/src/assets/girl.jpeg";
-import intel from "/Projects//E-commerce/e-commerce/src/assets/intel.png";
-import rtx from "/Projects//E-commerce/e-commerce/src/assets/rtx.png";
-import ssd from "/Projects//E-commerce/e-commerce/src/assets/ssd.png";
-import ddr4 from "/Projects//E-commerce/e-commerce/src/assets/ddr4.png";
+import corei7 from "../assets/corei7.jpeg";
+import girl from "../assets/girl.jpeg";
+import intel from "../assets/intel.png";
+import rtx from "../assets/rtx.png";
+import ssd from "../assets/ssd.png";
+import ddr4 from "../assets/ddr4.png";
 
 const ProductTabContent = ({ activeTab }) => {
   const [currentSlide, setCurrentSlide] = useState(0);

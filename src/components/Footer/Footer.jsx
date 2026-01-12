@@ -2,11 +2,11 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { FaHeadset, FaUser, FaTag } from 'react-icons/fa';
 import { FaFacebookSquare, FaInstagramSquare } from 'react-icons/fa';
-import paypal from "/Projects/E-commerce/e-commerce/src/assets/5d68644e-35b9-4867-ba47-527c04b4c403.png"
-import visa from "/Projects/E-commerce/e-commerce/src/assets/ef000374-0c18-4437-beb3-e3c343539735.png"
-import mastercard from "/Projects/E-commerce/e-commerce/src/assets/5e08ab99-ce6b-43c0-98b1-12a2e07e0638.png"
-import discover from "/Projects/E-commerce/e-commerce/src/assets/ce5b3c18-3dd5-4538-b06b-d7a181f35298.png"
-import americanexpress from "/Projects/E-commerce/e-commerce/src/assets/3788cc35-37d8-4f2e-82b2-8040af05c41b.png"
+import paypal from "../../assets/5d68644e-35b9-4867-ba47-527c04b4c403.png"
+import visa from "../../assets/ef000374-0c18-4437-beb3-e3c343539735.png"
+import mastercard from "../../assets/5e08ab99-ce6b-43c0-98b1-12a2e07e0638.png"
+import discover from "../../assets/ce5b3c18-3dd5-4538-b06b-d7a181f35298.png"
+import americanexpress from "../../assets/3788cc35-37d8-4f2e-82b2-8040af05c41b.png"
 
 const Footer = () => {
   return (

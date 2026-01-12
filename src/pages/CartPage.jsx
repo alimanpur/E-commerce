@@ -4,7 +4,7 @@ import { useSelector, useDispatch } from 'react-redux';
 import { updateQuantity, removeFromCart, clearCart } from '../features/cart/cartSlice';
 import Navbar from '../components/Navbar/Navbar';
 import Footer from '../components/Footer/Footer';
-import zip from '/Projects/E-commerce/e-commerce/src/assets/zip.png';
+import zip from '../assets/zip.png';
 
 const CartPage = () => {
   const cartItems = useSelector(state => state.cart.items);

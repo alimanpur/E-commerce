@@ -3,13 +3,13 @@ import Footer from '../components/Footer/Footer.jsx';
 import TestimonialsSection from '../sections/Testimonials/TestimonialsSection.jsx';
 import rectangle from "/Projects/E-commerce/e-commerce/src/assets/Rectangle 54.png";
 import rectangle1 from "/Projects/E-commerce/e-commerce/src/assets/Rectangle 11.png";
-import log from "/Projects/E-commerce/e-commerce/src/assets/Frame 205.png";
-import log1 from "/Projects/E-commerce/e-commerce/src/assets/Group 174.png";
-import log2 from "/Projects/E-commerce/e-commerce/src/assets/Group 175.png";
-import log3 from "/Projects/E-commerce/e-commerce/src/assets/Group 176.png";
-import rect2 from "/Projects/E-commerce/e-commerce/src/assets/Mask Group.png";
-import rect3 from "/Projects/E-commerce/e-commerce/src/assets/Rectangle 13.png";
-import rect4 from "/Projects/E-commerce/e-commerce/src/assets/Mask Group1.png";
+import log from "../assets/Frame 205.png";
+import log1 from "../assets/Group 174.png";
+import log2 from "../assets/Group 175.png";
+import log3 from "../assets/Group 176.png";
+import rect2 from "../assets/Mask Group.png";
+import rect3 from "../assets/Rectangle 13.png";
+import rect4 from "../assets/Mask Group1.png";
 
 const AboutPage = () => {
   return (

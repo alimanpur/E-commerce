@@ -1,5 +1,5 @@
 import React from 'react';
-import msiBannerImage from '/Projects/E-commerce/e-commerce/src/assets/Group 56.png';
+import msiBannerImage from '../../assets/Group 56.png';
 
 const HeroBanner = () => {
   return (

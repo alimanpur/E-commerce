@@ -1,10 +1,10 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import Footer from '../components/Footer/Footer';
-import locate from '/Projects/E-commerce/e-commerce/src/assets/Vector.svg';
-import phone from '/Projects/E-commerce/e-commerce/src/assets/Group 2049.svg';
-import time from '/Projects/E-commerce/e-commerce/src/assets/Group 2086.svg';
-import mail from '/Projects/E-commerce/e-commerce/src/assets/Group 2087.svg';
+import locate from '../assets/Vector.svg';
+import phone from '../assets/Group 2049.svg';
+import time from '../assets/Group 2086.svg';
+import mail from '../assets/Group 2087.svg';
 
 const ContactPage = () => {
   return (

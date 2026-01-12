@@ -3,7 +3,7 @@ import ProductCard from './ProductCard';
 import ProductList from './ProductList';
 import { useProducts } from './useProducts';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
-import zipLogo from '/Projects/E-commerce/e-commerce/src/assets/zip.png';
+import zipLogo from '../../assets/zip.png';
 
 const NewProducts = () => {
   const { products } = useProducts();
