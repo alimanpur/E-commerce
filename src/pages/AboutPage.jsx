@@ -1,8 +1,8 @@
 import React from 'react';
 import Footer from '../components/Footer/Footer.jsx';
 import TestimonialsSection from '../sections/Testimonials/TestimonialsSection.jsx';
-import rectangle from "/Projects/E-commerce/e-commerce/src/assets/Rectangle 54.png";
-import rectangle1 from "/Projects/E-commerce/e-commerce/src/assets/Rectangle 11.png";
+import rectangle from "../assets/Rectangle 54.png";
+import rectangle1 from "../assets/Rectangle 11.png";
 import log from "../assets/Frame 205.png";
 import log1 from "../assets/Group 174.png";
 import log2 from "../assets/Group 175.png";
