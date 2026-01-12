@@ -5,7 +5,7 @@ import { useHeader } from "./useHeader";
 import { useProducts } from "../Products/useProducts";
 import { RxPerson } from "react-icons/rx";
 import { Search, ShoppingCart, Heart, X, ChevronDown } from "lucide-react";
-import logo from '/Projects/E-commerce/e-commerce/src/assets/f4a3a3fa-79c5-4659-a0da-0660df66c6ce.png';
+import logo from '../../assets/f4a3a3fa-79c5-4659-a0da-0660df66c6ce.png';
 
 const MainNav = () => {
   const { navLinks } = useHeader();
