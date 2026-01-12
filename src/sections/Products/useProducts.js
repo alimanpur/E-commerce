@@ -1,9 +1,9 @@
 // src/sections/Products/useProducts.js
-import msiProductImage from '/Projects/E-commerce/e-commerce/src/assets/0db52e21-46c0-4fbd-a3d5-487dcb7be6b0.png';
-import msiPro from '/Projects/E-commerce/e-commerce/src/assets/ac9da762-3a89-4944-a88a-624d07d57622.png';
-import msiPro1 from '/Projects/E-commerce/e-commerce/src/assets/81e34b10-3129-4520-ab02-ad75d0d297b1.png';
-import msiPro2 from '/Projects/E-commerce/e-commerce/src/assets/beda4027-6c88-47da-9e63-0bb3cf22a8f9.png';
-import msip from "/Projects/E-commerce/e-commerce/src/assets/image 29.svg";
+import msiProductImage from '../../assets/0db52e21-46c0-4fbd-a3d5-487dcb7be6b0.png';
+import msiPro from '../../assets/ac9da762-3a89-4944-a88a-624d07d57622.png';
+import msiPro1 from '../../assets/81e34b10-3129-4520-ab02-ad75d0d297b1.png';
+import msiPro2 from '../../assets/beda4027-6c88-47da-9e63-0bb3cf22a8f9.png';
+import msip from "../../assets/image 29.svg";
 
 export const useProducts = () => {
   const products = [
